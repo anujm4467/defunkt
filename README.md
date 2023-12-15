@@ -14,8 +14,8 @@ Before you begin, ensure that you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-nestjs-app.git
-    cd your-nestjs-app
+    git clone https://github.com/anujm4467/defunkt.git
+    cd defunkt
     ```
 
 2. **Install dependencies:**
