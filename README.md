@@ -1,4 +1,4 @@
-# Your NestJS Application
+# NestJS Application
 
 This repository contains a NestJS application that can be run locally.
 
